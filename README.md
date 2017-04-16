@@ -9,7 +9,7 @@ system management(role based access management)
 
 This project can provide services for front-end system, which can be used by car renters.
 
-This project is constructed based on another open source project:
+This project is constructed based on another open source project:  
 http://www.zuidaima.com/share/1653781413727232.htm
 
 
