@@ -1,0 +1,10 @@
+已解决问题：  
+1.sql脚本建表语句（number改成decimal/bigint，sequence改成auto_increament，date改为datetime）初始化数据（to_date方法去掉，）查询分页（还不彻底，第二页条数显示有问题）代码中默认日期sysdate改成now()  
+2.'湘A-'参数乱码问题  
+3.java连接数据库：oracle连接改成mysql  
+4.工程：myeclipse改为eclipse格式  
+
+遗留问题：  
+1.分页有点问题，可以看下日志查看界面。第二页显示条数不对。  
+.查询有点问题，根据车号查询不到租车单  
+3.归还日期没有记录4.结算模块比较弱。  
