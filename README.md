@@ -1,5 +1,5 @@
-# rentCarSystem
-This project is a back-end Car renting management system, includes modules below:
+# Car Renting System
+This project is a back-end car renting management system, includes modules below:
 user management
 customer management
 car management
